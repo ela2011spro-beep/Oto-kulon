@@ -1,0 +1,6 @@
+{
+  "name": "Oto Klon",
+  "description": "Instagram videolarını otomatik alıp siyah şerit, AI seslendirme ve YouTube Shorts yüklemesi yapan, kanal durumu ve en çok izlenen video analizi sunan otomasyon uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
